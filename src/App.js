@@ -16,8 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          {/* {process.env.REACT_APP_TEST_CODE}
-          {process.env.REACT_APP_TEST_URL} */}
+          {process.env.REACT_APP_TEST_CODE}
+          {process.env.REACT_APP_TEST_URL}
           Learn test
         </a>
       </header>
