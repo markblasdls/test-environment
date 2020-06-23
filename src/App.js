@@ -18,7 +18,7 @@ function App() {
         >
           {/* {process.env.REACT_APP_TEST_CODE}
           {process.env.REACT_APP_TEST_URL} */}
-          Learn React
+          Learn test
         </a>
       </header>
     </div>
