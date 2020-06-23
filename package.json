@@ -1,7 +1,12 @@
 {
-  "name": "test-environment",
+  "name": "react-test-environment",
+  "description": "a really cool app",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.11.3",
+    "node": "12.11.1" 
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
